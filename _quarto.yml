@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "ad688-employability-sp25A1-group2"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
