@@ -172,3 +172,25 @@ cython_debug/
 data/lightcast_job_postings.csv
 /.quarto/
 **/*.quarto_ipynb
+
+
+
+# Quarto Project Section (added for website)
+
+# Quarto build directories and cache
+_site/
+_freeze/
+site_libs/
+.quarto/
+
+# Quarto rendered output
+*.html
+*.pdf
+*.docx
+*.tex
+*.ipynb
+
+# Temporary preview files
+**/.quarto-cache/
+**/.DS_Store
+**/*.quarto_ipynb
