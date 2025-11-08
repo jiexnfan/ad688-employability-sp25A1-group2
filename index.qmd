@@ -1,7 +1,69 @@
 ---
-title: "ad688-employability-sp25A1-group2"
+title: "Geographic and Remote Work Analysis"
+author: "Group 2: Ivan, Jiayin, Avery"
+format: html
 ---
 
-This is a Quarto website.
+## Introduction and Research Rationale
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The topic *“Geographic and Remote Work Analysis”* is highly relevant to understanding
+the evolving job market in 2024. The geography of employment has undergone a fundamental
+transformation driven by advances in digital technology, the expansion of AI-related
+roles, and the normalization of remote work. Understanding how location and job type
+interact helps identify which regions are growing, which industries are decentralizing,
+and how workers can adapt to the new distribution of opportunities.
+
+This topic is particularly important because it reflects how technology is reshaping
+access to employment and income. The COVID-19 pandemic accelerated a global shift toward
+remote and hybrid models, turning work-from-home (WFH) from an optional arrangement
+into a structural feature of modern employment (Cheung, Chuang, & Yiu, 2023). This
+transition has far-reaching implications for productivity, job accessibility, and
+regional development. In some industries, workers have gained new flexibility and
+access to high-paying roles regardless of geography, while in others—especially those
+that rely on physical presence—the benefits remain limited.
+
+Recent research provides valuable evidence of how remote work is changing the geography
+of employment. In New Zealand, Cheung et al. (2023) used location-based service (LBS)
+data to visualize how workplaces became geographically dispersed following the pandemic,
+confirming that WFH has reshaped urban employment patterns. In the United States,
+Althoff, Eckert, Ganapati, and Walsh (2022) found that high-income business service
+workers were among the first to transition to remote work, causing spending and consumer
+demand to shift away from large cities. This redistribution of human capital and
+economic activity suggests that traditional metropolitan hubs like Silicon Valley
+and Boston may gradually lose their dominance as new regional centers—such as Austin
+and Denver—continue to attract talent and investment. On a global scale, Braesemann
+et al. (2022) observed that remote work opportunities remain unevenly distributed
+across countries and skill levels, with high-skill workers and high-income regions
+benefiting the most, while rural areas lag behind due to limited infrastructure and
+digital access.
+
+In 2024, several key trends make this area of study especially crucial. Remote job
+availability has stabilized in technology and professional service sectors but declined
+in manufacturing and healthcare. AI-related hiring continues to expand faster than
+traditional roles, while emerging cities are becoming increasingly competitive alternatives
+to long-established tech hubs. These patterns indicate that the geography of work
+is becoming fluid—shaped by technology adoption, workforce flexibility, and infrastructure
+capacity.
+
+Through this analysis, we expect to identify where AI and non-AI job growth is most
+concentrated, and whether remote opportunities are increasing or declining across
+industries. We also anticipate finding that while tech hubs remain influential, remote
+work is gradually helping to distribute opportunities more evenly across regions.
+Ultimately, this research aims to provide insights into how geography, technology,
+and job type interact to shape employability and equity in the post-pandemic economy.
+
+---
+
+## References
+
+Althoff, L., Eckert, F., Ganapati, S., & Walsh, C. (2022). *The geography of remote
+work*. *Regional Science and Urban Economics, 93*, 103770.
+https://doi.org/10.1016/j.regsciurbeco.2022.103770  
+
+Braesemann, F., Stephany, F., Teutloff, O., Kässi, O., Graham, M., & Lehdonvirta, V.
+(2022). *The global polarisation of remote work*. *PLOS ONE, 17*(10), e0274630.
+https://doi.org/10.1371/journal.pone.0274630  
+
+Cheung, K. S., Chuang, I.-T., & Yiu, C. Y. (2023). *Decoding the work-from-home phenomenon:
+insights from location-based service data*. *Regional Studies, Regional Science, 10*(1),
+612–616. https://doi.org/10.1080/21681376.2023.2273258
