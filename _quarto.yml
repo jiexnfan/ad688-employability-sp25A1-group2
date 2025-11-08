@@ -2,20 +2,29 @@ project:
   type: website
 
 website:
-  title: "ad688-employability-sp25A1-group2"
+  title: "AD688 Employability - Group 2"
   navbar:
+    background: "#A8B5A2"      
+    foreground: "#ffffff"      
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: tabs/index.qmd
+        text: "Home"
+      - href: tabs/team_analysis.qmd
+        text: "Research"
+      - href: tabs/data_analysis.qmd
+        text: "Data Analysis"
+      - href: tabs/career_plan.qmd
+        text: "Career Plan"
+      - href: tabs/about.qmd
+        text: "About"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: cosmo
     toc: true
-
-
+    css: styles.css
+    mainfont: "Helvetica Neue, Lato, sans-serif"
+    linkcolor: "#78997F"
+    backgroundcolor: "#F8F9F8"
+    code-block-bg: "#F3F5F3"
 
