@@ -1,18 +1,15 @@
 ---
-title: Business Running Case; Evaluating Personal Job Market Prospects in 2025
+title: "Business Running Case: Evaluating Personal Job Market Prospects in 2025"
 author:
-  - name: Jiexin (Avery) Fan, Jiayin Liu, Ivan Villasmil
+  - name: "Jiexin (Avery) Fan, Jiayin Liu, Ivan Villasmil"
     affiliations:
       - id: BU
         name: Boston University
         city: Boston
         state: MA
 number-sections: true
-date: '2025-11-05'
+date: "2025-11-05"
 format:
-  pdf: default
-  docx: default
-  ipynb: default
   html:
     theme: cerulean
     toc: true
@@ -25,6 +22,3 @@ execute:
   freeze: auto
 jupyter: python3
 ---
-
-```{python}
-```
