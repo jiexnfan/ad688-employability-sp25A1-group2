@@ -167,15 +167,12 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+
 # PyPI configuration file
 .pypirc
-data/lightcast_job_postings.csv
-/.quarto/
-**/*.quarto_ipynb
 
-
-
-# Quarto Project Section (added for website)
+# Ignore CSV data files
+data/*.csv
 
 # Quarto build directories and cache
 _site/
@@ -188,13 +185,8 @@ site_libs/
 *.pdf
 *.docx
 *.tex
-*.ipynb
 
 # Temporary preview files
 **/.quarto-cache/
 **/.DS_Store
-**/*.quarto_ipynb
 
-
-# Ignore all CSV files in the data folder
-data/*.csv
