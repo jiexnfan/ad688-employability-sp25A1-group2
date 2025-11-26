@@ -194,3 +194,7 @@ site_libs/
 **/.quarto-cache/
 **/.DS_Store
 **/*.quarto_ipynb
+
+
+# Ignore all CSV files in the data folder
+data/*.csv

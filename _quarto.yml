@@ -11,7 +11,7 @@ website:
         text: "Home"
       - href: tabs/team_analysis.qmd
         text: "Research"
-      - href: tabs/data_analysis.qmd
+      - href: tabs/data_analysis.ipynb
         text: "Data Analysis"
       - href: tabs/career_plan.qmd
         text: "Career Plan"
