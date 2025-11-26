@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis"
+title: "Data Analysis group 2"
 subtitle: "Comprehensive Data Cleaning & Exploratory Analysis of Job Market Trends"
 author:
   - name: Avery, Ivan, Jiayin
