@@ -1,0 +1,20 @@
+---
+title: "Data Analysis"
+subtitle: "Comprehensive Data Cleaning & Exploratory Analysis of Job Market Trends"
+author:
+  - name: Avery, Ivan, Jiayin
+    affiliations:
+      - id: bu
+        name: Boston University
+        city: Boston
+        state: MA
+bibliography: ../references.bib
+
+
+
+format: 
+  html:
+    toc: true
+    number-sections: true
+    df-print: paged
+---
