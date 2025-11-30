@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "AD688 Employability - Group 2"
+  title: "Employability - Evaluating Personal Job Market Prospects in 2025. AD688 - Group 2"
   navbar:
     background: "#A8B5A2"      
     foreground: "#ffffff"      
