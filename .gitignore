@@ -190,3 +190,6 @@ site_libs/
 **/.quarto-cache/
 **/.DS_Store
 
+
+# upload figure foler 
+!figure/*.html
