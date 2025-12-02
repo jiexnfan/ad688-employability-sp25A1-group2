@@ -2,21 +2,26 @@ project:
   type: website
 
 website:
-  title: "Employability - Evaluating Personal Job Market Prospects in 2025. AD688 - Group 2"
+  title: "Job Market Analysis 2024"
   navbar:
     background: "#A8B5A2"      
     foreground: "#ffffff"      
     left:
       - href: tabs/index.qmd
         text: "Home"
-      - href: tabs/team_analysis.qmd
-        text: "Research"
+      - href: tabs/introduction.qmd
+        text: "Introduction"
       - href: tabs/data_analysis.ipynb
-        text: "Data Analysis"
-      - href: tabs/career_plan.qmd
-        text: "Career Plan"
-      - href: tabs/about.qmd
-        text: "About"
+        text: "Data Cleaning & Exploration"
+      - href: tabs/eda.ipynb
+        text: "Exploratory Data Analysis"
+      - href: tabs/skill_gap_analysis.ipynb
+        text: "Skill Gap Analysis"
+      - href: tabs/ml_methods.ipynb
+        text: "ML Methods"
+     
+
+
 
 format:
   html:
