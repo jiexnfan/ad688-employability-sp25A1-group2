@@ -4,24 +4,21 @@ project:
 website:
   title: "Job Market Analysis 2024"
   navbar:
-    background: "#A8B5A2"      
-    foreground: "#ffffff"      
+    background: "#A8B5A2"
+    foreground: "#ffffff"
     left:
       - href: tabs/index.qmd
         text: "Home"
       - href: tabs/introduction.qmd
         text: "Introduction"
       - href: tabs/data_analysis.ipynb
-        text: "Data Cleaning & Exploration"
+        text: "Data Analysis"
       - href: tabs/eda.ipynb
         text: "Exploratory Data Analysis"
       - href: tabs/skill_gap_analysis.ipynb
         text: "Skill Gap Analysis"
       - href: tabs/ml_methods.ipynb
         text: "ML Methods"
-     
-
-
 
 format:
   html:
@@ -30,6 +27,5 @@ format:
     css: styles.css
     mainfont: "Helvetica Neue, Lato, sans-serif"
     linkcolor: "#78997F"
-    backgroundcolor: "#F8F9F8"
+    backgroundcolor: "#F8F0F8"
     code-block-bg: "#F3F5F3"
-

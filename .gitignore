@@ -191,5 +191,8 @@ site_libs/
 **/.DS_Store
 
 
-# upload figure foler 
+# upload figure foler
 !figure/*.html
+
+/.quarto/
+**/*.quarto_ipynb

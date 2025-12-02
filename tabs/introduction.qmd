@@ -1,0 +1,5 @@
+---
+title: "Geographic and Remote Work Analysis"
+author: "Group 2: Ivan, Jiayin, Avery"
+format: html
+---
