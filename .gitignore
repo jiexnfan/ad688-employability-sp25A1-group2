@@ -196,3 +196,9 @@ site_libs/
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Ignore csv file
+/data/lightcast_job_postings.csv
+
+# Ignore large Spark archive
+/data/spark-4.0.0-bin-hadoop3.tgz
