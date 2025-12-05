@@ -201,4 +201,4 @@ site_libs/
 /data/lightcast_job_postings.csv
 
 # Ignore large Spark archive
-/data/spark-4.0.0-bin-hadoop3.tgz
+/data/spark-4.0.0-bin-hadoop3.tgzdata/
