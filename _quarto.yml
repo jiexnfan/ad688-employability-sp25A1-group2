@@ -34,5 +34,5 @@ execute:
   enabled: false
   cache: false
   freeze: false
-  keep-md: true
+  keep-md: false
   execute-dir: project
