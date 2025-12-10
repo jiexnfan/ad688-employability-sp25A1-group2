@@ -1,0 +1,39 @@
+---
+title: "Geographic and Remote Work Analysis"
+subtitle: "Final Report"
+author:
+  - name: "Group 2: Ivan Villasmil, Jiayin Liu, Jiexin Fan (Avery)"
+    affiliations:
+      - ref: bu
+affiliations:
+  - id: bu
+    name: Boston University
+    city: Boston
+    state: MA
+
+# Course information
+course-title: "MET AD688: Cloud Analytics for Business"
+instructor: "Professor Nakul R. Padalkar"
+
+date: "Dec 10, 2025"
+date-format: long
+format:
+  docx: default
+---
+# Project Overview
+{{< include tabs/index.qmd >}}
+
+# Introduction
+{{< include tabs/introduction.qmd >}}
+
+# Data Cleaning
+{{< embed tabs/data_cleaning.ipynb >}}
+
+# Exploratory Data Analysis
+{{< embed tabs/eda.ipynb >}}
+
+# Machine Learning Methods
+{{< embed tabs/ml_methods.ipynb >}}
+
+# Skill Gap Analysis
+{{< embed tabs/skill_gap_analysis.ipynb >}}
