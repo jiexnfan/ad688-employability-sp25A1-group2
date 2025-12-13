@@ -12,7 +12,7 @@ website:
       - href: tabs/introduction.qmd
         text: "Introduction"
       - href: tabs/data_cleaning.ipynb
-        text: "Data Analysis"
+        text: "Data Cleaning"
       - href: tabs/eda.ipynb
         text: "Exploratory Data Analysis"
       - href: tabs/skill_gap_analysis.ipynb
@@ -29,3 +29,10 @@ format:
     linkcolor: "#78997F"
     backgroundcolor: "#F8F0F8"
     code-block-bg: "#F3F5F3"
+
+execute:
+  enabled: false
+  cache: false
+  freeze: false
+  keep-md: false
+  execute-dir: project
